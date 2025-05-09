@@ -7,3 +7,5 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.9.0
+      - key: MODEL_URL
+        value: https://drive.google.com/file/d/1aHZ2YE_Z67KpxhUc4rqjpf5Y2LDYQCVs/view?usp=sharing
